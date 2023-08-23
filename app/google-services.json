@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "326381194079",
+    "project_id": "app2687340laura",
+    "storage_bucket": "app2687340laura.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326381194079:android:24b59f168947f5767ec4ea",
+        "android_client_info": {
+          "package_name": "co.edu.sena.appLauraRincon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326381194079-9m6q02bsapq62o6mnu262miuacptrbtc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfW7X8UPpN0Ez59ucp4KDv_fwW7DIeCYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326381194079-9m6q02bsapq62o6mnu262miuacptrbtc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
